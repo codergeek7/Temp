@@ -3,6 +3,7 @@
 
 int main(){
 
+string common = "aligned";
 string aligned;
 
 
